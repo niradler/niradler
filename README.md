@@ -27,12 +27,12 @@ HI there 👋 I'm **Nir Adler**, and I'm a Developer and a Maker, you can start 
 * [**Linkedin**](https://www.linkedin.com/in/niradler)
 * [**Email**](github@niradler.com)
   
-  <!--
-  <p align="center">
+
+  <p align="left">
   <img src="https://raw.githubusercontent.com/niradler/niradler/master/tech_sign.gif">
 </p>
--->
-<p align='center'>
+
+<p align='right'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=repo.niradler">
 </p>
   
