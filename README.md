@@ -1,7 +1,10 @@
 <!-- # Hello, nerds 🤓 -->
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/niradler/niradler/master/wellcome_github_profile.gif">
+</p>
+  <p align="right">
+  <img src="https://raw.githubusercontent.com/niradler/niradler/master/tech_sign.gif">
 </p>
 
 HI there 👋 I'm **Nir Adler**, and I'm a Developer and a Maker, you can start with me a conversion on any techinal subject out there you will find me intersting.
@@ -28,11 +31,7 @@ HI there 👋 I'm **Nir Adler**, and I'm a Developer and a Maker, you can start 
 * [**Email**](github@niradler.com)
   
 
-  <p align="left">
-  <img src="https://raw.githubusercontent.com/niradler/niradler/master/tech_sign.gif">
-</p>
-
-<p align='right'>
+<p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=repo.niradler">
 </p>
   
