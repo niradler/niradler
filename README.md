@@ -18,15 +18,15 @@ HI there 👋 I'm **Nir Adler**, and I'm a Developer and a Maker, you can start 
 
 ## 🔍 Where do you usually find me?
 
-✍️ &nbsp;&nbsp; Writing [**Blog**](https://niradler.com)
-💻 &nbsp;&nbsp; Developing [**Code**](https://github.com/niradler)
-🎮 &nbsp;&nbsp; Playing [**Games**](https://eu.shop.battle.net/en-gb/family/call-of-duty-mw)
+* ✍️ &nbsp;&nbsp; Writing [**Blog**](https://niradler.com)
+* 💻 &nbsp;&nbsp; Developing [**Code**](https://github.com/niradler)
+* 🎮 &nbsp;&nbsp; Playing [**Games**](https://eu.shop.battle.net/en-gb/family/call-of-duty-mw)
 
 ## 📬 Get in touch
 
 * [**Twitter**](https://twitter.com/AdlerNir)
 * [**Linkedin**](https://www.linkedin.com/in/niradler)
-* [**Email**](github@niradler.com)
+* <a href="mailto:github@niradler.com">**Email**</a>
   
 
 <p align='center'>
