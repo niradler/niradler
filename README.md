@@ -6,7 +6,7 @@
 
 HI there 👋 I'm **Nir Adler**, and I'm a Developer and a Maker, you can start with me a conversion on any techinal subject out there you will find me intersting.
 
-## ⚡️ Top skill
+## ⚡️ Skills
 
 * JS development NodeJS / Express / React.
 * Databases, Sql and NoSql.
@@ -18,6 +18,8 @@ HI there 👋 I'm **Nir Adler**, and I'm a Developer and a Maker, you can start 
 ## 🔍 Where do you usually find me?
 
 ✍️ &nbsp;&nbsp; Writing [**Blog**](https://niradler.com)
+💻 &nbsp;&nbsp; Developing [**Code**](https://github.com/niradler)
+🎮 &nbsp;&nbsp; Playing [**Games**](https://eu.shop.battle.net/en-gb/family/call-of-duty-mw)
 
 ## 📬 Get in touch
 
@@ -25,10 +27,11 @@ HI there 👋 I'm **Nir Adler**, and I'm a Developer and a Maker, you can start 
 * [**Linkedin**](https://www.linkedin.com/in/niradler)
 * [**Email**](github@niradler.com)
   
+  <!--
   <p align="center">
   <img src="https://raw.githubusercontent.com/niradler/niradler/master/tech_sign.gif">
 </p>
-
+-->
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=repo.niradler">
 </p>
