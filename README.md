@@ -1,9 +1,7 @@
 <!-- # Hello, nerds 🤓 -->
 
 <p align="left">
-
-   <span  align="right">    <img src="https://raw.githubusercontent.com/niradler/niradler/master/wellcome_github_profile.gif"> </span>
-  <span  align="right">  <img src="https://raw.githubusercontent.com/niradler/niradler/master/tech_sign.gif"> </span>
+  <span  align="center">  <img src="https://raw.githubusercontent.com/niradler/niradler/master/tech_sign.gif"> </span>
 </p>
 
 
