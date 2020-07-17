@@ -1,9 +1,6 @@
 <!-- # Hello, nerds 🤓 -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/niradler/niradler/master/tech_sign.gif"> 
-</p>
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 HI there 👋 I'm **Nir Adler**, and I'm a Developer and a Maker, you can start with me a conversion on any techinal subject out there, you will find me intersting.
 
@@ -29,6 +26,9 @@ HI there 👋 I'm **Nir Adler**, and I'm a Developer and a Maker, you can start 
 * <a href="mailto:github@niradler.com">**Email**</a>
   
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/niradler/niradler/master/tech_sign.gif"> 
+</p>
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=repo.niradler">
 </p>
