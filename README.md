@@ -1,6 +1,6 @@
 <!-- # Hello, nerds 🤓 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=niradler&show_icons=true)
 
 HI there 👋 I'm **Nir Adler**, and I'm a Developer and a Maker, you can start with me a conversion on any techinal subject out there, you will find me intersting.
 
