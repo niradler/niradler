@@ -24,17 +24,80 @@ HI there 👋 I'm **Nir Adler**, and I'm a Developer and a Maker, you can start 
 * [**Twitter**](https://twitter.com/AdlerNir)
 * [**Linkedin**](https://www.linkedin.com/in/niradler)
 * <a href="mailto:github@niradler.com">**Email**</a>
-  
 
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
- <img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="40" height="40"/> 
- <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-   <img src="https://konpa.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-     <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-     <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-     <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/></p><p align="center"> 
+<p align="center">
+  <img
+    src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+    alt="react"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    alt="amazonwebservices"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
+    alt="docker"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://konpa.github.io/devicon/devicon.git/icons/electron/electron-original.svg"
+    alt="electron"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://konpa.github.io/devicon/devicon.git/icons/go/go-original.svg"
+    alt="go"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+    alt="javascript"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+    alt="typescript"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+    alt="mongodb"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"
+    alt="mysql"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
+    alt="nodejs"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg"
+    alt="python"
+    width="40"
+    height="40"
+  />
+   <img
+    src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg"
+    alt="python"
+    width="40"
+    height="40"
+  />
 </p>
 
 <p align='center'>
