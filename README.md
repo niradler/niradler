@@ -25,10 +25,6 @@ HI there 👋 I'm **Nir Adler**, and I'm a Developer and a Maker, you can start 
 * [**Linkedin**](https://www.linkedin.com/in/niradler)
 * <a href="mailto:github@niradler.com">**Email**</a>
 
-
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=repo.niradler">
-</p>
   
 <!--
 **niradler/niradler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
