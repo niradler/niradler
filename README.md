@@ -10,7 +10,7 @@ HI there 👋 I'm **Nir Adler**, and I'm a Developer and a Maker, you can start 
 
 * JS development NodeJS / Express / React.
 * Databases, Sql and NoSql.
-* System design (manage high scale infostructure while keeping cost, secuirty and efficiency)
+* System design (manage high scale infrastructure while keeping cost, secuirty and efficiency)
 * Linux, Bash and command line tools.
 * Cloud, aws and gcloud, IaC tools like Serverless, Terraform and AWS CDK.
 * Security, specific in the web domain (vulnarbilities like sql injection,xss,Broken Authentication and Authrization), also working with security tools like zap proxy, nmap, and other tools you can find on kali linux.
