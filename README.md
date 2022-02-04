@@ -6,7 +6,7 @@
 
 HI there 👋 
 
-I'm **Nir Adler**, and I'm a Developer and a Maker, you can start with me a conversion on any techinal subject out there, you will find me intersting.
+I'm **Nir Adler**, and I'm a Developer and a Maker, you can start with me a conversion on any technical subject out there, you will find me interesting.
 
 ## ⚡️ Skills
 
