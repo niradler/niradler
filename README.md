@@ -6,7 +6,7 @@
 
 HI there 👋 
 
-I'm **Nir Adler**, and I'm a Developer and a Maker, you can start with me a conversation on any technical subject out there, you will find me interesting.
+I'm **Nir Adler**, developer and a maker, you can chat with me on any technical subject out there, and I’ll probably be interested.
 
 ## ⚡️ Skills
 
