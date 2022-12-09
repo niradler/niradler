@@ -19,7 +19,7 @@ I'm **Nir Adler**, developer and a maker, you can chat with me on any technical 
 
 ## 🔍 Where do you usually find me?
 
-* ✍️ &nbsp;&nbsp; Writing [**Blog**](https://niradler.com)
+* ✍️ &nbsp;&nbsp; Writing [**Blog**](https://blog.niradler.com)
 * 💻 &nbsp;&nbsp; Developing [**Code**](https://github.com/niradler)
 * 🎮 &nbsp;&nbsp; Playing [**Games**](https://eu.shop.battle.net/en-gb/family/call-of-duty-mw)
 
