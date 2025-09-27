@@ -1,9 +1,5 @@
 <!-- # Hello, nerds 🤓 -->
-<!-- 
-![Metrics](https://metrics.lecoq.io/niradler?template=classic&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FJerusalem)
- -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=niradler&show_icons=true)
-
+ 
 HI there 👋 
 
 I'm **Nir Adler**, developer and a maker, you can chat with me on any technical subject out there, and I’ll probably be interested.
@@ -29,7 +25,11 @@ I'm **Nir Adler**, developer and a maker, you can chat with me on any technical 
 * [**Linkedin**](https://www.linkedin.com/in/niradler)
 * <a href="mailto:github@niradler.com">**Email**</a>
 
-  
+
+![Nir's github stats](https://github-readme-stats.vercel.app/api?username=niradler&show_icons=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 <!--
 **niradler/niradler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
